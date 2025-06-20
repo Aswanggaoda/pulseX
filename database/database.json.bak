@@ -1,5 +1,12 @@
 {
-  "hit": {},
+  "hit": {
+    "todaycmd": 8,
+    "totalcmd": 8,
+    "menu": 4,
+    "ping": 1,
+    "allmenu": 1,
+    "menfes": 2
+  },
   "set": {
     "62882008380023@s.whatsapp.net": {
       "lang": "id",
@@ -43,11 +50,23 @@
       "afkTime": -1,
       "afkReason": "",
       "register": false,
-      "limit": 20,
+      "limit": 19,
       "money": 10000,
       "lastclaim": 1750437735796,
       "lastbegal": 1750437735796,
       "lastrampok": 1750437735796
+    },
+    "120363199675372680@newsletter": {
+      "vip": false,
+      "ban": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "register": false,
+      "limit": 20,
+      "money": 10000,
+      "lastclaim": 1750441985418,
+      "lastbegal": 1750441985418,
+      "lastrampok": 1750441985418
     }
   },
   "game": {
