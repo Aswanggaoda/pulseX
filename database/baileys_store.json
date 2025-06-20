@@ -1,0 +1,391 @@
+{
+  "contacts": {
+    "6287729860010@s.whatsapp.net": {
+      "id": "6287729860010@s.whatsapp.net",
+      "name": "Aswangga"
+    }
+  },
+  "presences": {
+    "62882008380023@s.whatsapp.net": {
+      "62882008380023@s.whatsapp.net": {
+        "lastKnownPresence": "composing"
+      }
+    },
+    "6287729860010@s.whatsapp.net": {
+      "6287729860010@s.whatsapp.net": {
+        "lastKnownPresence": "composing"
+      }
+    }
+  },
+  "messages": {
+    "62882008380023@s.whatsapp.net": {
+      "array": [
+        {
+          "key": {
+            "remoteJid": "62882008380023@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3AEEEE13C0D23E5E9D71"
+          },
+          "messageTimestamp": 1750437706,
+          "broadcast": false,
+          "status": 2,
+          "verifiedBizName": "ya",
+          "message": {
+            "protocolMessage": {
+              "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+              "initialSecurityNotificationSettingSync": {
+                "securityNotificationEnabled": false
+              }
+            },
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "aXFWsJoS1XFJNQ==",
+                "senderTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "62882008380023@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3A3630DBE1CC907FCBB8"
+          },
+          "messageTimestamp": 1750437708,
+          "broadcast": false,
+          "status": 2,
+          "verifiedBizName": "ya",
+          "message": {
+            "protocolMessage": {
+              "type": "HISTORY_SYNC_NOTIFICATION",
+              "historySyncNotification": {
+                "fileSha256": "Ox7x1IjsGcmHWr0o5h2NTMTmbi6kEPWv3ourYs2MQMw=",
+                "fileLength": "238",
+                "mediaKey": "KUmbqYffFEUzSqe1u1I3Zct8ZJUT4hFZUztm2VpM/iQ=",
+                "fileEncSha256": "tsjHb11lp0jHq+ilnxt65lFMYENWCFUdX7IUq0k0O6I=",
+                "directPath": "/v/t62.31111-24/30026540_1764130604456392_5776607116262150766_n.enc?ccb=11-4&oh=01_Q5Aa1wFPsTs-z4LPWBZYzQRCCdrvdYrgee8p3-wLKo8N2j-9_Q&oe=687D13F3&_nc_sid=5e03e0",
+                "syncType": "PUSH_NAME",
+                "chunkOrder": 1,
+                "progress": 100,
+                "encHandle": "AQERTamQgUcVQWUYnOMojNhuSNTbckRqMhrZVd6HyU3O5vxm2FF0ConS2VF9ThgvBfvHKwAFzGIkap6D3gZTizVkjl4mnOGQLsncaVJh9ynW8pKkQxcYmIVO-sbBPob1e1phN_3hW86-v99AzPc"
+              }
+            },
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "aXFWsJoS1XFJNQ==",
+                "senderTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "62882008380023@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3A444AF8A60F467D0ECF"
+          },
+          "messageTimestamp": 1750437715,
+          "broadcast": false,
+          "status": 2,
+          "verifiedBizName": "ya",
+          "message": {
+            "protocolMessage": {
+              "type": "HISTORY_SYNC_NOTIFICATION",
+              "historySyncNotification": {
+                "fileSha256": "DqPv8mMbsVcnJyZxzIvuvEI3fqNXTjmu2FsUZWF6bms=",
+                "fileLength": "139376",
+                "mediaKey": "ZiE2VTXmLGytz8sL1RFHfbrpEoqfkM22xmqMPkEop24=",
+                "fileEncSha256": "3ghJDsZT260TyXRYkNEKnk+A50iNA33UlWyzRNXCPWY=",
+                "directPath": "/v/t62.31111-24/14748072_1055407782774882_9092249872966526452_n.enc?ccb=11-4&oh=01_Q5Aa1wEZpfhqvEmWOiIu6bp_ISwPuFqdSqlNOBWcZYk3JHnMcw&oe=687D1325&_nc_sid=5e03e0",
+                "syncType": "RECENT",
+                "chunkOrder": 1,
+                "progress": 100,
+                "encHandle": "AQHPoP6ql4bp6UgCQ7unoqARBwAJ_STiW8pORqEsSsrHm2xMQ2qEclwpRHCxNzFl30cCCjZxtFKdsPtAxYAv2wb7XjJbOpe9laKVO2ryOVmlVoltYLpv5GlM5X2B5kWnKAl__p00MSQy8yxvqp8"
+              }
+            },
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "aXFWsJoS1XFJNQ==",
+                "senderTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2
+            }
+          }
+        }
+      ],
+      "keyId": {}
+    },
+    "6287729860010@s.whatsapp.net": {
+      "array": [
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB03F94FE9B1482FA0B46"
+          },
+          "messageTimestamp": 1750437735,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": ".ping",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750370691"
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "jU38hrngVPAUStk0CQ+ynFow4Jph4ivwgv3Q8ZjpNhI=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB0CF829F98DFE6E741ED"
+          },
+          "messageTimestamp": 1750437897,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": ".menu",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700",
+                "recipientKeyIndexes": [
+                  1,
+                  0
+                ]
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "uH+/gWdqSb3dYGWxFuk0jcq1u0neTrWI4UqB/6eQvCo=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB040EF7AC71427E36929"
+          },
+          "messageTimestamp": 1750437908,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": "!menu",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700",
+                "recipientKeyIndexes": [
+                  1,
+                  0
+                ]
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "5UTevsXPr0VJn4YIWHM9plUiUV3zgu8R1GxsTT8KPpM=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB00605690F35E6C7A3E9"
+          },
+          "messageTimestamp": 1750438169,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": ".ping",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700",
+                "recipientKeyIndexes": [
+                  1,
+                  0
+                ]
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "kWdbk1GPqsqBG9gu6a+uGoKXEN5zjEmcauyMhcafXJA=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB0A3ACA7A0B7D839E3ED"
+          },
+          "messageTimestamp": 1750438372,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": "tes",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700",
+                "recipientKeyIndexes": [
+                  1,
+                  0
+                ]
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "9g9rEsANzHfkXcu2ZBMqZTFC9A4sqzRu00ojj9LaL2Q=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB07738C5648FB7479785"
+          },
+          "messageTimestamp": 1750438381,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": ".ping",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "uI02JJD9t5zEme6daOL5s3i8OoNYVZvHb5AxqfOu584=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB0067391B8702494CE34"
+          },
+          "messageTimestamp": 1750438392,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": "test",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "xkDDEi1GHaasyTG7MA98oi5Mt1RVLfZ5oh6YHFsdDuI=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        },
+        {
+          "key": {
+            "remoteJid": "6287729860010@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB0D4B84EEA75731E2445"
+          },
+          "messageTimestamp": 1750438396,
+          "pushName": "Aswangga",
+          "broadcast": false,
+          "message": {
+            "conversation": ".menu",
+            "messageContextInfo": {
+              "deviceListMetadata": {
+                "senderKeyHash": "7CNOxdf/0bOSgA==",
+                "senderTimestamp": "1749653934",
+                "senderAccountType": "E2EE",
+                "receiverAccountType": "E2EE",
+                "recipientKeyHash": "aXFWsJoS1XFJNQ==",
+                "recipientTimestamp": "1750437700"
+              },
+              "deviceListMetadataVersion": 2,
+              "messageSecret": "1urHjDEipC4VdqOQrs7OOMaw2egCqTG/ajFm1CpKXvg=",
+              "limitSharingV2": {
+                "sharingLimited": false,
+                "trigger": "UNKNOWN",
+                "limitSharingSettingTimestamp": "0",
+                "initiatedByMe": false
+              }
+            }
+          }
+        }
+      ],
+      "keyId": {}
+    }
+  },
+  "groupMetadata": {}
+}
